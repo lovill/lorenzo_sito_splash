@@ -4,9 +4,9 @@ body{
 
 #main {
 	margin-top: 30px;
-	padding-top: 5px;
-	width: 1000px;
-	margin-left: 30% ;
+/* 	padding-top: 5px; */
+	/*width: 1000px;*/
+	margin-left: 10% ;
   	margin-right: auto ;
   	font-family: 'Quattrocento', serif;
   	color: 	#0000EE;
@@ -14,7 +14,7 @@ body{
 
 #header_section{
 	/*line-height: 4pt;*/
-	font-size: 10px;
+	font-size: 15px;
 	margin-bottom: 40px;
 	margin-top: 10px;
 }
@@ -32,12 +32,55 @@ body{
 
 .section_title{
 	font-weight: bold;
+	font-size: 20px;
 }
 
-h1 {
+#footer_info{
+	font-size: 15px;
+}
+
+hr.footer_line {
+    border: 0;
+    height: 0;
+    border-top: 1px solid #0000EE;
+    border-bottom: 1px solid #0000EE;
+}
+
+h1
+ {
 	font-weight: normal;
 	font-size: 20px;
 	margin-bottom: 0px;
+}
+
+h3
+ {
+	font-weight: normal;
+	font-size: 15px;
+	/*margin-bottom: 0px;*/
+	/*valign="top";*/
+	/*min-width: 120px;*/
+}
+
+/*p{
+	display: inline;
+}*/
+p.work_title{
+	font-style: italic;
+	display: inline;
+}
+
+#role{
+	font-style: normal;
+}
+
+#work_title{
+	font-style: italic;
+}
+
+#info{
+	font-style: normal;
+	font-size: 14px;
 }
 
 #section{
@@ -50,13 +93,28 @@ h1 {
 	margin-bottom: 0px;
 	font-size: 14px;
 }
+	
+#spacing{
+	height:10px;
+}
+
+#exh_spacing{
+	height:8px;
+}
+
+#same_employer_spacing{
+	height:3px;
+}
 
 #dates {
-	float: left;
-	width: 75px;	
-	margin-top:5px;
-	margin-bottom: 0px;
+/* 	float: left; */
+/* 	width: 75px;	 */
+/* 	margin-top:5px; */
+/* 	margin-bottom: 0px; */
 	font-size: 12px;
+	valign: "center";
+	min-width: 110px;
+	valign: "top";
 
 	/*line-height: 100%;*/
 }
@@ -69,8 +127,13 @@ h1 {
 	margin-bottom: 2px;
 }
 
+#link_light{
+	font-weight: normal;
+}
+
 
 a:link {
+	font-weight: bold;
     text-decoration: underline;
     color: #0000EE;
 }

@@ -1,0 +1,1347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hof",
+				"hof_revenue"
+			],
+			[
+				"proj",
+				"proj_cost"
+			],
+			[
+				"y",
+				"ymin-ymax"
+			],
+			[
+				"axes",
+				"axes_obj"
+			],
+			[
+				"sol",
+				"sol_ids"
+			],
+			[
+				"inti",
+				"init_subplot"
+			],
+			[
+				"massi",
+				"mask_size_x"
+			],
+			[
+				"mas",
+				"mask_x_min"
+			],
+			[
+				"part",
+				"particle_geo_fn"
+			],
+			[
+				"p",
+				"p_origin"
+			],
+			[
+				"goals",
+				"goals_names"
+			],
+			[
+				"radial",
+				"radial_graph"
+			],
+			[
+				"make",
+				"make_ngon"
+			],
+			[
+				"len",
+				"len_arcs"
+			],
+			[
+				"jo",
+				"job_id"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"ro",
+				"room"
+			],
+			[
+				"room",
+				"room_dict"
+			],
+			[
+				"last",
+				"last_known_time"
+			],
+			[
+				"save",
+				"save_json"
+			],
+			[
+				"pz",
+				"pz"
+			],
+			[
+				"py",
+				"py"
+			],
+			[
+				"px",
+				"px"
+			],
+			[
+				"model",
+				"model_txt_data"
+			],
+			[
+				"pcl",
+				"pcl_text_file"
+			],
+			[
+				"pc",
+				"pcl_text_fp"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"num",
+				"num_101s"
+			],
+			[
+				"program_da",
+				"program_data"
+			],
+			[
+				"revenu",
+				"revenue_score"
+			],
+			[
+				"ratio",
+				"ratio_301"
+			],
+			[
+				"REQ",
+				"REQ_101"
+			],
+			[
+				"progr",
+				"program_goal_data"
+			],
+			[
+				"unit",
+				"unit_map_dict"
+			],
+			[
+				"RE",
+				"REQ_201"
+			],
+			[
+				"co",
+				"cost_subtotal"
+			],
+			[
+				"con",
+				"constr_costs"
+			],
+			[
+				"compute_to",
+				"compute_tot_proj_cost"
+			],
+			[
+				"tot",
+				"total_project_cost"
+			],
+			[
+				"deve",
+				"development_costs"
+			],
+			[
+				"roa",
+				"roads"
+			],
+			[
+				"type101",
+				"type101_ccost"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"uni",
+				"unit_type"
+			],
+			[
+				"nu",
+				"num_101s"
+			],
+			[
+				"type",
+				"type101_objects"
+			],
+			[
+				"vario",
+				"various_costs"
+			],
+			[
+				"sell",
+				"selling_rental_costs"
+			],
+			[
+				"devel",
+				"development_costs"
+			],
+			[
+				"tot_u",
+				"tot_units_ccost"
+			],
+			[
+				"lot",
+				"lot_site_land_cost"
+			],
+			[
+				"land",
+				"land_costs"
+			],
+			[
+				"ya",
+				"yard_size"
+			],
+			[
+				"foot",
+				"footprint_size"
+			],
+			[
+				"format",
+				"format_to_currency"
+			],
+			[
+				"cost",
+				"cost_elements_list"
+			],
+			[
+				"view",
+				"view_score"
+			],
+			[
+				"she",
+				"SHED_COST"
+			],
+			[
+				"forma",
+				"format_to_currency"
+			],
+			[
+				"compute_tot",
+				"compute_tot_proj_selling"
+			],
+			[
+				"tot_ap",
+				"tot_apt_ccost"
+			],
+			[
+				"tot_hou",
+				"tot_house_ccost"
+			],
+			[
+				"pedp",
+				"pedp_cost"
+			],
+			[
+				"road",
+				"road_cost"
+			],
+			[
+				"compu",
+				"compute_cost"
+			],
+			[
+				"pedp_",
+				"pedp_sqm"
+			],
+			[
+				"elem",
+				"elements_list"
+			],
+			[
+				"filt",
+				"filter_unit_type"
+			],
+			[
+				"ap",
+				"AptUnit"
+			],
+			[
+				"apt",
+				"apt_unit_geo_id"
+			],
+			[
+				"constr",
+				"constr_cost"
+			],
+			[
+				"deb",
+				"debug_print"
+			],
+			[
+				"by",
+				"backyard_sqm_list"
+			],
+			[
+				"un",
+				"unit_type"
+			],
+			[
+				"cos",
+				"cost_list_test"
+			],
+			[
+				"house_",
+				"house_type_id_list"
+			],
+			[
+				"pos",
+				"pos_list"
+			],
+			[
+				"house",
+				"house_type_id_list"
+			],
+			[
+				"selling",
+				"selling_val"
+			],
+			[
+				"unt",
+				"unit_map"
+			],
+			[
+				"fac",
+				"factor_reduction"
+			],
+			[
+				"modal",
+				"modal_links"
+			],
+			[
+				"gif",
+				"gif_dir"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"x",
+				"xticks_range"
+			],
+			[
+				"xt",
+				"xticks_rounded_range"
+			],
+			[
+				"my",
+				"myrounded_range"
+			],
+			[
+				"data",
+				"solar_bp_data"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"reve",
+				"revenue"
+			],
+			[
+				"figure",
+				"figure_id"
+			],
+			[
+				"st",
+				"st2_step"
+			],
+			[
+				"st1",
+				"st1_step"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"em",
+				"email_addresses"
+			],
+			[
+				"DE",
+				"DEFAULT_UNUSED_AVE_STEP"
+			],
+			[
+				"if",
+				"ifile"
+			],
+			[
+				"copy",
+				"copy_rename"
+			],
+			[
+				"num_",
+				"num_list_of_missing_designs"
+			],
+			[
+				"pro",
+				"program_vw"
+			],
+			[
+				"yard",
+				"yard_size_vw"
+			],
+			[
+				"sola",
+				"solar_gain_vw"
+			],
+			[
+				"solar",
+				"solar_gain"
+			],
+			[
+				"views",
+				"views_hof"
+			],
+			[
+				"for",
+				"foreground"
+			],
+			[
+				"var",
+				"variety"
+			],
+			[
+				"chan",
+				"change_aspect_ratio"
+			],
+			[
+				"cha",
+				"change_aspect_ratio"
+			],
+			[
+				"vari",
+				"variety_vw"
+			],
+			[
+				"program",
+				"program_vw"
+			],
+			[
+				"img",
+				"imgs_folder_name"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"cs",
+				"csv_sol_ids"
+			],
+			[
+				"sho",
+				"show_plot"
+			],
+			[
+				"image",
+				"image_open"
+			],
+			[
+				"twe",
+				"tweetTxt"
+			],
+			[
+				"fact",
+				"fact_pairs"
+			],
+			[
+				"input",
+				"input_values"
+			],
+			[
+				"env",
+				"env_design"
+			],
+			[
+				"en",
+				"env_design"
+			],
+			[
+				"size",
+				"size_data"
+			],
+			[
+				"add",
+				"add_annotation"
+			],
+			[
+				"rema",
+				"remap_vals"
+			],
+			[
+				"new",
+				"new_val"
+			],
+			[
+				"list",
+				"list_to_remap"
+			],
+			[
+				"top",
+				"top_spines_ticks"
+			],
+			[
+				"gen_",
+				"gen_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cv/index.html",
+			"settings":
+			{
+				"buffer_size": 20680,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 714.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"csv",
+				"CSV: Justify columns"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"pyth",
+				"Build With: Python"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"deli",
+				"CSV: Set delimiter"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Validate"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pretty js",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git unstage",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"boxy ",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"open resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"js pre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"be",
+				"HTMLBeautify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"jus",
+				"CSV: Justify columns"
+			],
+			[
+				"jsut",
+				"CSV: Justify columns"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"IndentX: Indent"
+			],
+			[
+				"forma",
+				"CSV: Format using template"
+			],
+			[
+				"set",
+				"Set Syntax: YAML"
+			],
+			[
+				"indet",
+				"Indent JSON"
+			],
+			[
+				"inden",
+				"IndentX: Indent"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"pretty xml",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssy",
+				"Set Syntax: YAML"
+			],
+			[
+				"wrap",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ju",
+				"CSV: Justify columns"
+			],
+			[
+				"justif",
+				"CSV: Justify columns"
+			],
+			[
+				"installe",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"WRA",
+				"Word Wrap: Toggle"
+			],
+			[
+				"justi",
+				"CSV: Justify columns"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Validate"
+			],
+			[
+				"form",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"build",
+				"Build With: Python"
+			]
+		],
+		"width": 924.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv"
+	],
+	"file_history":
+	[
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/ffmpeg -framerate 10 -i gen_%06d.png -vf eq=bright.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/hof_filtered.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/181107_vw_HOFplot_viz.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/36_DaiwaHouse/03_Work/181107_sample_file/171112_demo__LV0.RefineryResults/1b848787-139b-4743-9bc3-a997fb0191f1/RefineryResults.json",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/index.html",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/index - Copy.html",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/index_dn.html",
+		"/C/Users/Lorenzo/Documents/My Received Files/pwscatter_hof.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/170821_o2_data/181107_VW_scatter_anim_v2.py",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/css/resume_style.css",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/170821_o2_data/hof.csv",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/css_dn.css",
+		"/C/Users/Lorenzo/Desktop/dir.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/population.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_/181107_vw_plot_viz.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vids_scatters/181107_vw_plot_viz.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/181107_vw_plot_viz.py",
+		"/C/Users/Lorenzo/AppData/Local/Programs/Python/Python37/lib/genericpath.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/170821_o2_data/181107_vw_plot_viz.py",
+		"/C/Users/Lorenzo/AppData/Local/Programs/Python/Python37/lib/site-packages/matplotlib/artist.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/29_Pompidou/Work/181008_blender_sim/Text.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/99_Notes/1806_SimAUD18",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/34_auclass18/gd_spaceplanning/3BoxVolumeSurfaceArea.RefineryResults/ff1d1bf3-eaa3-442f-a2ad-b48070a332ab/RefineryResults.json",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/test.py",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/room_data_testA.json",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/room_data.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/29_Pompidou/Work/180726_sim_bullet/import_geo.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/36_DaiwaHouse/01_Notes/0709_KickOff_D1",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/180614_ph2_dashboard/dashboard_debug.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/180119_Profit_Python/vw_revenue.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/180614_ph2_dashboard/dashboard_code.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/vw_optimization/branches/vw-analysis/outputs/population_gh.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/vw_optimization/branches/vw-analysis/outputs/csv/population.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/180614_ph2_dashboard/dashboard.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/180614_ph2_dashboard/ngon.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/29_Pompidou/Work/180726_sim_bullet/test.py",
+		"/C/Users/Lorenzo/AppData/Local/Temp/tmpDFBD.tmp.html",
+		"/C/Users/Lorenzo/AppData/Local/Temp/tmp8A10.tmp.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/vw_optimization/branches/vw-0813/outputs/population_gh.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/0918-VW-Package/0918-VW-Package/Optimization_Dataset/offspring.csv",
+		"/C/Users/Lorenzo/Google Drive/lv/Personal/2018_Medical/Lorenzo Villaggi_NEWMEDICALCLAIMSUMMARY.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/vw_optimization/branches/vw-0813/outputs/csv/offspring.csv",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/run-pill.py",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/pytodyn.py",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/run-box.py",
+		"/C/Users/Lorenzo/Documents/discover-master-dyn/run-branching_constrained.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/src/job.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/src/util.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/_test_180523_160933/index.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/run-template.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/src/kung.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/src/GA.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master/run-template.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/room_data.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Force_Layout/index.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Graph_Bezier/index.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Matrix/d3.layout.adjacencyMatrix.js",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Matrix/index.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Force_Layout/graph.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/test_inputs.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/01_GD-Model/debug.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/outputs.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master-dyn/meta.file",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/01_GD-Model/test.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master/meta.file",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master/gh.ping",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Matrix/miserables.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Matrix/room_data.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master/src/GA.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master/src/util.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/02_GD-Evolve/discover-master/src/job.py",
+		"/C/Users/Lorenzo/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/Code/Inconvergent/Fracture/iutils-master/iutils-master/examples/checkers/checkers.py",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/Code/Inconvergent/Fracture/iutils-master/iutils-master/setup.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village_2/json_output/cam_coords.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village_2/json_output/cam_coords.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/py_read/nyc_0/cam_path_data.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/py_read/nyc_0/images.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180510_flythrough/PLYs/listener.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180509_ambisonic/audio.js",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180411/model_txt/model_txt/read_model.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180508_recon/fd_02/camera_tracks.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180507_SG_Unity/demo4/04_camera_tracks.csv",
+		"/C/Users/Lorenzo/Documents/Downloads/camera_tracks.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/py_read/nyc_0/read_cam_path.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180425_model_alignment/make_image_geos.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_0/images.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180411/model_txt/model_txt/points3D.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180411/model_txt/model_txt/images.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180411/model_txt/model_txt/cameras.txt",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/4XiDraw/axi_draw/PYTHON_SCRIPTS/crv_to_gcode.py",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/4XiDraw/axi_draw/PYTHON_SCRIPTS/crvs_sorted_to_gcode.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/vw_optimization/branches/vw-0813/nights_watch.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Matrix/15c005cba60aad26e11a-dc970ac6a4f524b70e8ab9d8ca53ed3069b66911/d3.layout.adjacencyMatrix.js",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Matrix/15c005cba60aad26e11a-dc970ac6a4f524b70e8ab9d8ca53ed3069b66911/index.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Graph/index.html",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/Adjacency/Graph/miserables.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/32_GDxWebinar/00_Data-Capture/room_data.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180509_audio/speechrec.py",
+		"/C/Users/Lorenzo/AppData/Local/Temp/Rar$DIa0.546/INSTALL.md",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180507_SG_Unity/demo4/camera_tracks.csv",
+		"/C/Users/Lorenzo/sg2018-data-mining-the-city/scripts/read_cam_path.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/py_read/nyc_0/cam_vecs.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/py_read/nyc_0/cam_coords.csv",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/py_read/read_cam_path.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village_2/json_output/cam_path.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village/images.txt",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village_2/images.txt",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/index.html",
+		"/C/Users/Lorenzo/Desktop/180228 - GDforAEC Call",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/171201_new-dataset_simaud/1211_data_analysis/180313_design_space_analysis.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/07_PSoA/180411_Board_Data/other_layout_updated.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/07_PSoA/180411_Board_Data/south_layout_updated_160707_upd2.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180411/model/model/read_model.py",
+		"/C/Users/Lorenzo/Desktop/model/read_model.py",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/180119_Profit_Python/obj_oriented_revenue_backup.py",
+		"/C/Users/Lorenzo/AppData/Local/Temp/tmpF5EA.tmp.html",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/Code/Inconvergent/Fracture/iutils-master/iutils-master/install-dev",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/Code/Inconvergent/Fracture/iutils-master/iutils-master/README.md",
+		"/C/Users/Lorenzo/Google Drive/lv/Projects/4XiDraw/gcode_out/gcode_out.txt",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/index.html",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/css/index_style.css",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css/modal_style.css",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css/index_style.css",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/cv/css/resume_style.css",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_research.js",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_script.js",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_bio_script.js"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"set_axes_dom",
+			"goals",
+			"fn",
+			"csv_fn",
+			"animate",
+			"ax",
+			"5",
+			"ax",
+			"i",
+			"sol_id",
+			"gen_id",
+			"cr_fpath",
+			"xmin",
+			"x_",
+			"x",
+			"xmin",
+			"axes_obj",
+			"pop",
+			"population",
+			"fname",
+			"case",
+			"spacing",
+			"the living",
+			"table",
+			"hr",
+			" b_",
+			" b",
+			"b_tile_crv_len",
+			"d_tile_crv_len",
+			"b_tile_crv_len",
+			"a_tile_crv_len",
+			" a",
+			"a_",
+			"a",
+			"16",
+			"a",
+			"mask_miny1",
+			"y0",
+			"x0",
+			"0 =",
+			"mask_size_y",
+			"mask_size_x",
+			"mask_y_min",
+			"mask_x_min",
+			"x",
+			"yi + 1",
+			"yi - 0",
+			"yi - 1",
+			"yi - 2",
+			"2",
+			"ByPoints",
+			"PolyCurve.ByPoints",
+			"rg_obj",
+			"debug_print",
+			"layout",
+			"Layout",
+			"Node()",
+			"node",
+			"Node",
+			"Node()",
+			"Node",
+			"rs.",
+			"print",
+			"subdivide",
+			"subidivide",
+			"subidive",
+			"debug_list.append",
+			"debug_list",
+			"dir_list",
+			"room_order",
+			"room_data",
+			".png",
+			"png",
+			"createInputFile",
+			"Id",
+			"createInputFile",
+			"inputs",
+			"inputs.txt",
+			"ping",
+			"createInp",
+			"createInputFile",
+			"print",
+			"x",
+			"circulation",
+			"pcenter_wpos",
+			"rs",
+			"188.jpg",
+			"189.jpg",
+			"00189.jpg",
+			"00190.jpg",
+			"_00028.jpg",
+			" modal",
+			"modal ",
+			" modal",
+			"modal",
+			"bio_and_contact",
+			" </",
+			"dummy",
+			"unit_geo_ids",
+			"map_unit_to_object",
+			"unit_map",
+			"program_class",
+			"301 units",
+			"type301",
+			"compute_program_score",
+			"program_data_dict",
+			"/",
+			" / ",
+			"/",
+			"make_pos_list",
+			"pprint",
+			"101",
+			"progam_data_dict",
+			"type301",
+			"self",
+			"program_goal_data",
+			"program_data",
+			"201",
+			"101",
+			"compute_tot_proj_cost",
+			"vw_finances_dict",
+			"roads",
+			"ccost",
+			"construction",
+			"compute_cost",
+			"ccost",
+			"construction",
+			"compute_cost"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Lorenzo\\Documents\\GitHub\\lorenzo_sito_splash"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cv/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								141
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.452755321028,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 198.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mainc",
+				"o2\\cli\\maincmd.py"
+			],
+			[
+				"o2",
+				"bin\\o2"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,32 @@
+body{
+  /*background-color: #0000FF;*/
+  background-color: white;  
+}
+
+#name{
+  font-size: 30px;
+  margin-left:10px;
+  margin-top:30px;
+}
+
+#bio1{
+  font-size: 20px;
+  margin-left:30px;
+}
+
+#bio2{
+  font-size: 20px;
+  margin-left:60px;
+}
+
+#bio3{
+  font-size: 20px;  
+  margin-left:90px;
+}
+
+marquee{
+  font-size: 50px;
+  margin-right:50%;
+  /*background-color: black;*/
+  color:blue;
+}
