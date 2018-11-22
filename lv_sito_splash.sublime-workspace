@@ -523,7 +523,16 @@
 			"file": "cv/index.html",
 			"settings":
 			{
-				"buffer_size": 20680,
+				"buffer_size": 22426,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cv/css/resume_style.css",
+			"settings":
+			{
+				"buffer_size": 1939,
 				"line_ending": "Windows"
 			}
 		}
@@ -893,11 +902,12 @@
 	"expanded_folders":
 	[
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv"
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/css"
 	],
 	"file_history":
 	[
+		"/C/Users/Lorenzo/Documents/GitHub/daiwahouse-rental/README.md",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/ffmpeg -framerate 10 -i gen_%06d.png -vf eq=bright.txt",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/hof_filtered.csv",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/181107_vw_HOFplot_viz.py",
@@ -1024,8 +1034,7 @@
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css/index_style.css",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/cv/css/resume_style.css",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_research.js",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_script.js",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_bio_script.js"
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_script.js"
 	],
 	"find":
 	{
@@ -1043,6 +1052,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Functions",
+			"bottom",
 			"set_axes_dom",
 			"goals",
 			"fn",
@@ -1168,9 +1179,7 @@
 			"ccost",
 			"construction",
 			"compute_cost",
-			"ccost",
-			"construction",
-			"compute_cost"
+			"ccost"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1200,18 +1209,18 @@
 				{
 					"buffer": 0,
 					"file": "cv/index.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20680,
+						"buffer_size": 22426,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								140,
-								141
+								6625,
+								6625
 							]
 						],
 						"settings":
@@ -1221,17 +1230,47 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
+						"translation.y": 3355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "cv/css/resume_style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -1263,7 +1302,7 @@
 		"cols":
 		[
 			0.0,
-			0.452755321028,
+			0.598621775718,
 			1.0
 		],
 		"rows":
