@@ -523,7 +523,7 @@
 			"file": "cv/index.html",
 			"settings":
 			{
-				"buffer_size": 22426,
+				"buffer_size": 23771,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -564,6 +564,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pretty j",
+				"Pretty JSON: Format and Sort JSON"
+			],
 			[
 				"just",
 				"CSV: Justify columns"
@@ -903,15 +907,19 @@
 	[
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/css"
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/css",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js"
 	],
 	"file_history":
 	[
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/index.html",
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/circles_force.js",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/36_DaiwaHouse/03_Work/181107_sample_file/171112_demo__LV0.RefineryResults/1b848787-139b-4743-9bc3-a997fb0191f1/RefineryResults.json",
+		"/C/Users/Lorenzo/Google Drive/00_TheLiving/36_DaiwaHouse/Rental_Housing/03_Work/181127_GIS_Demo/SampleJSONs/2_gd_road.json",
 		"/C/Users/Lorenzo/Documents/GitHub/daiwahouse-rental/README.md",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/ffmpeg -framerate 10 -i gen_%06d.png -vf eq=bright.txt",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/hof_filtered.csv",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Phase1/Work/181108_vw_pairwise_scatter_plots/181107_vw_HOFplot_viz.py",
-		"/C/Users/Lorenzo/Google Drive/00_TheLiving/36_DaiwaHouse/03_Work/181107_sample_file/171112_demo__LV0.RefineryResults/1b848787-139b-4743-9bc3-a997fb0191f1/RefineryResults.json",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/index.html",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/index - Copy.html",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/cv/index_dn.html",
@@ -1016,7 +1024,6 @@
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village_2/json_output/cam_path.json",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village/images.txt",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/30_SG2018/Work/180424_workflow/dataset/nyc_east_village_2/images.txt",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/index.html",
 		"/C/Users/Lorenzo/Desktop/180228 - GDforAEC Call",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/17_VanWijnen/Work/171201_new-dataset_simaud/1211_data_analysis/180313_design_space_analysis.py",
 		"/C/Users/Lorenzo/Google Drive/00_TheLiving/07_PSoA/180411_Board_Data/other_layout_updated.json",
@@ -1032,9 +1039,7 @@
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/css/index_style.css",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css/modal_style.css",
 		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/css/index_style.css",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/cv/css/resume_style.css",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_research.js",
-		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito_splash/js/modal_script.js"
+		"/C/Users/Lorenzo/Documents/GitHub/lorenzo_sito/cv/css/resume_style.css"
 	],
 	"find":
 	{
@@ -1052,6 +1057,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"link",
 			"Functions",
 			"bottom",
 			"set_axes_dom",
@@ -1178,8 +1184,7 @@
 			"roads",
 			"ccost",
 			"construction",
-			"compute_cost",
-			"ccost"
+			"compute_cost"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1212,15 +1217,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22426,
+						"buffer_size": 23771,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6625,
-								6625
+								513,
+								513
 							]
 						],
 						"settings":
@@ -1230,10 +1235,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3355.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1268,7 +1273,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
