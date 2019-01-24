@@ -523,7 +523,7 @@
 			"file": "cv/index.html",
 			"settings":
 			{
-				"buffer_size": 23771,
+				"buffer_size": 24589,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -1217,15 +1217,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23771,
+						"buffer_size": 24589,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								513,
-								513
+								5553,
+								5553
 							]
 						],
 						"settings":
